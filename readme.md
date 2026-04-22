@@ -9,4 +9,4 @@ You will need to set environmental variables to provide credentials (see /src/se
 
 ## Archived
 
-Due to my leaving the industry and declining activity with this tool it is being archived
+Due to decline in interest I am no longer maintaining this codebase
